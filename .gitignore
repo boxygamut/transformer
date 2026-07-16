@@ -8,4 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Misc
 model_weights.pth
+.ipynb_checkpoints
