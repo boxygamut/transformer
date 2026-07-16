@@ -12,3 +12,4 @@ wheels/
 # Misc
 model_weights.pth
 .ipynb_checkpoints
+Dataset.txt
